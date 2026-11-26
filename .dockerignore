@@ -1,0 +1,11 @@
+.git
+.github
+.idea
+.vscode
+target
+calculadora
+docs
+src/test
+*.md
+*.log
+mvnw.cmd
